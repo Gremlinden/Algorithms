@@ -25,7 +25,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestVector", "TestVector\Te
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Library", "Library\Library.vcxproj", "{12F95AEA-D916-4551-8A77-1D657AE9B677}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestArray", "TestArray\TestArray.vcxproj", "{CA3F7E1F-EF1D-4DDF-8354-D1B54405D195}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestMap", "TestArray\TestArray.vcxproj", "{CA3F7E1F-EF1D-4DDF-8354-D1B54405D195}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab01", "Lab01\Lab01.vcxproj", "{3EB063CC-F2BD-49F2-B212-DAB9A1ED057E}"
 EndProject

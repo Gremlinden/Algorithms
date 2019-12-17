@@ -73,12 +73,14 @@
   <ItemGroup>
     <ClCompile Include="graph.cpp" />
     <ClCompile Include="list.cpp" />
+    <ClCompile Include="map.cpp" />
     <ClCompile Include="vector.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="defines.h" />
     <ClInclude Include="graph.h" />
     <ClInclude Include="list.h" />
+    <ClInclude Include="map.h" />
     <ClInclude Include="vector.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
